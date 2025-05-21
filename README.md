@@ -7,26 +7,6 @@
 I’m dervic e., and I’m a developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts.
 </p>
 
-## <img src="img/profile.jpg" width = "30px"> About Me
-
-```C#
-var myProfile = new
-{
-    name = "dervic e.",
-    mailAddress = "info@dervic.dev",
-    
-    {
-    
-      currentWork = "UI/UX Development",
-    
-    learning = new
-       
-       {
-      topic = "Web"
-    
-    }
-};
-```
 
 ## <img src="img/code.webp" width ="25" style="margin-bottom: -5px;"> Skills
 
