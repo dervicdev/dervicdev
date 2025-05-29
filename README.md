@@ -33,6 +33,8 @@ I’m dervic dev., and I’m a developer who has passion for building clean web 
 
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+    ![CodePen](https://img.shields.io/badge/codepen-%23121011.svg?style=for-the-badge&logo=codepen&logoColor=white)
+
 ## <img src="img/whatsapp.gif" width="30" style="margin-bottom: -5px;"> Contact Information
 
 You can reach out to me using the following contact details:
