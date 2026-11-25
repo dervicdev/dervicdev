@@ -40,25 +40,3 @@
 | HTML5 · CSS3 · JavaScript · React · Tailwind | Node.js · Git · GitHub | Figma · UI/UX · Prototyping |
 
 </div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dervicdev&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9&icon_color=2DD4BF&ring_color=2DD4BF" alt="Dervic's GitHub stats" height="180"/>
-<img src="https://streak-stats.demolab.com?user=dervicdev&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak stats" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dervicdev&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9" alt="Top languages" height="150"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dervicdev&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=FFFFFF&area=true&area_color=134e4a&hide_border=true" alt="Activity graph" width="95%"/>
-
-</div>
-
----
-
