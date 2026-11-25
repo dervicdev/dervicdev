@@ -15,14 +15,9 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=dervicdev&color=2dd4bf&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/dervicdev)
-[![Followers](https://img.shields.io/github/followers/dervicdev?color=2dd4bf&style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/dervicdev?tab=followers)
-
 </div>
 
 ---
-
-## 🛠 Tech Stack
 
 <div align="center">
 
